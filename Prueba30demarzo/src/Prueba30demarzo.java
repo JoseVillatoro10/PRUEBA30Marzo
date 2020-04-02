@@ -27,6 +27,10 @@ public class Prueba30demarzo {
         System.out.println("Direccion: Zona 4, Huehuetenango");
         System.out.println("Telefono: 45517447");
         
+        System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
+        System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
+        System.out.println("Telefono: 42252923");
+        
     }
     
 }
