@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ *
+ * @author josev
+ */
+public class Prueba30demarzo {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("José Dagoberto Pérez Villatoro");
+        System.out.println("2da avenida b 9-20 zona 3 Huehuetenango");
+        System.out.println("32801288");
+    }
+    
+}
